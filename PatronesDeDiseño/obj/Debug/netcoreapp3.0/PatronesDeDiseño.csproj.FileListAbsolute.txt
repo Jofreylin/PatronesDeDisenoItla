@@ -1,0 +1,11 @@
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\netcoreapp3.0\PatronesDeDiseño.exe
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\netcoreapp3.0\PatronesDeDiseño.deps.json
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\netcoreapp3.0\PatronesDeDiseño.runtimeconfig.json
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\netcoreapp3.0\PatronesDeDiseño.runtimeconfig.dev.json
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\netcoreapp3.0\PatronesDeDiseño.dll
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\netcoreapp3.0\PatronesDeDiseño.pdb
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\netcoreapp3.0\PatronesDeDiseño.csprojAssemblyReference.cache
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\netcoreapp3.0\PatronesDeDiseño.AssemblyInfoInputs.cache
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\netcoreapp3.0\PatronesDeDiseño.AssemblyInfo.cs
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\netcoreapp3.0\PatronesDeDiseño.dll
+C:\Users\Traba\source\repos\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\netcoreapp3.0\PatronesDeDiseño.pdb
